@@ -1,3 +1,5 @@
+### This work was published in Towards AI [[link](https://towardsai.net/p/l/build-your-own-resume-chatbot-and-share-it-with)] by Boris Dorian Da Silva
+
 # Resume Chatbot
 
 This project is a chatbot designed to interact with users and answer questions about a specific resume. It leverages OpenAI's language model, LangChain's retrieval tools, and a custom prompt template to generate context-aware responses.
